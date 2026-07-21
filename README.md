@@ -1,2 +1,2 @@
-# examples
-# learning examples for Python, HTML, CSS, JS, etc.
+# Examples & Exercises
+# Learning examples and exercises for Python, HTML, CSS, JS, etc.
