@@ -26,7 +26,7 @@ A desktop weather application built with **Python** and **PyQt5** that retrieves
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/graynb25/examples.git
 cd weather-app
 ```
 
