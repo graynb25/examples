@@ -14,7 +14,10 @@ A desktop weather application built with **Python** and **PyQt5** that retrieves
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="392" height="680" alt="image" src="https://github.com/user-attachments/assets/b18f27d6-89ab-4be7-a3ce-0b34cb333549" />
+
+<img width="390" height="676" alt="image" src="https://github.com/user-attachments/assets/0ce8bb5f-d010-4877-a221-a0b152230ebf" />
+
 
 ## Requirements
 
