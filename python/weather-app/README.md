@@ -70,7 +70,3 @@ WeatherApp/
 - Requests
 - python-dotenv
 - OpenWeatherMap API
-
-## License
-
-This project is licensed under the MIT License.
